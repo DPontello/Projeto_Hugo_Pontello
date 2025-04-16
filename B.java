@@ -16,7 +16,7 @@ public class B {
     }
     
     public void setB2(float b2) {
-        thist.B2 = b2;
+        this.B2 = b2;
     }
 
     public void MB1(){
