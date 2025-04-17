@@ -26,14 +26,8 @@ public class A {
         System.out.println("MA2");
     }
 
-<<<<<<< HEAD
     public int getSoma(int a, int b) {
         return a + b;
     }
-=======
-    public void MA3(){
-        System.out.println("Alteração a classe A apartir do clone");
-    }
-
->>>>>>> b14e82c (Criação da Classe C e Criado o Método MA3() na Classe A)
+  
 }
