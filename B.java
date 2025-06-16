@@ -30,4 +30,7 @@ public class B {
     public void MB3() {
         System.out.println("MB3");
     }
+    public int getSoma(int a, int b) {
+        return a + b;
+    }
 }
